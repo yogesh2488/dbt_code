@@ -8,3 +8,5 @@ sources:
       - name: stg_customerdata
       - name: stg_payments
       - name: stg_order
+      - name: stg_product
+      

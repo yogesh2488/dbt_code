@@ -7,4 +7,4 @@ sources:
     tables:
       - name: stg_customerdata
       - name: stg_payments
-      - name: STG_ORDER
+      - name: stg_order
